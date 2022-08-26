@@ -1,0 +1,15 @@
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\CondicionaisIF\bin\Debug\net6.0\CondicionaisIF.exe
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\CondicionaisIF\bin\Debug\net6.0\CondicionaisIF.deps.json
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\CondicionaisIF\bin\Debug\net6.0\CondicionaisIF.runtimeconfig.json
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\CondicionaisIF\bin\Debug\net6.0\CondicionaisIF.dll
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\CondicionaisIF\bin\Debug\net6.0\CondicionaisIF.pdb
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\CondicionaisIF\obj\Debug\net6.0\CondicionaisIF.csproj.AssemblyReference.cache
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\CondicionaisIF\obj\Debug\net6.0\CondicionaisIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\CondicionaisIF\obj\Debug\net6.0\CondicionaisIF.AssemblyInfoInputs.cache
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\CondicionaisIF\obj\Debug\net6.0\CondicionaisIF.AssemblyInfo.cs
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\CondicionaisIF\obj\Debug\net6.0\CondicionaisIF.csproj.CoreCompileInputs.cache
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\CondicionaisIF\obj\Debug\net6.0\CondicionaisIF.dll
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\CondicionaisIF\obj\Debug\net6.0\refint\CondicionaisIF.dll
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\CondicionaisIF\obj\Debug\net6.0\CondicionaisIF.pdb
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\CondicionaisIF\obj\Debug\net6.0\CondicionaisIF.genruntimeconfig.cache
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\CondicionaisIF\obj\Debug\net6.0\ref\CondicionaisIF.dll

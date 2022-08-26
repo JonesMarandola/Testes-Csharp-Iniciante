@@ -1,0 +1,15 @@
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\Escopo\bin\Debug\net6.0\Escopo.exe
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\Escopo\bin\Debug\net6.0\Escopo.deps.json
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\Escopo\bin\Debug\net6.0\Escopo.runtimeconfig.json
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\Escopo\bin\Debug\net6.0\Escopo.dll
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\Escopo\bin\Debug\net6.0\Escopo.pdb
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\Escopo\obj\Debug\net6.0\Escopo.csproj.AssemblyReference.cache
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\Escopo\obj\Debug\net6.0\Escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\Escopo\obj\Debug\net6.0\Escopo.AssemblyInfoInputs.cache
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\Escopo\obj\Debug\net6.0\Escopo.AssemblyInfo.cs
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\Escopo\obj\Debug\net6.0\Escopo.csproj.CoreCompileInputs.cache
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\Escopo\obj\Debug\net6.0\Escopo.dll
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\Escopo\obj\Debug\net6.0\refint\Escopo.dll
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\Escopo\obj\Debug\net6.0\Escopo.pdb
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\Escopo\obj\Debug\net6.0\Escopo.genruntimeconfig.cache
+C:\Users\ericj\OneDrive\Documentos\Codigos\C#\AprendendoCsharp\Escopo\obj\Debug\net6.0\ref\Escopo.dll
